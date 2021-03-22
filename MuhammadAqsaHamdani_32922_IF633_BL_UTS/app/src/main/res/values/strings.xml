@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music_UTS_32922</string>
+    <string name="nama">Nama : Muhammad Aqsa Hamdani</string>
+    <string name="nim">NIM : 00000032922</string>
+    <string name="kelas">Kelas : BL</string>
+    <string name="name">Username</string>
+    <string name="katasandi">Password</string>
+    <string name="loginText">LOGIN</string>
+    <string name="title">MUSIC PLAYER</string>
+</resources>
